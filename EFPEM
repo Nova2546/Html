@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>EFPEM</title>
+</head>
+<body>
+	<table border="1" width="100%">
+  <tr>
+    <td rowspan="2" align="center">
+      <img src="logo.png" width="150">
+    </td>
+    <td>
+      <h3>MISIÓN</h3>
+      <p>
+        Somos una Escuela no facultativa, comprometida a trabajar conjuntamente
+        y en forma responsable, con ética y apegados a valores morales e
+        institucionales...
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>VISIÓN</h3>
+      <p>
+        Ser la Escuela de Formación de Profesores de Enseñanza Media no
+        facultativa de la Universidad de San Carlos de Guatemala...
+      </p>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
